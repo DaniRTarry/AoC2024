@@ -39,9 +39,6 @@ Your actual left and right lists contain many location IDs. What is the total di
 
 
 
-
-
-
 --- Part Two ---
 Your analysis only confirmed what everyone feared: the two lists of location IDs are indeed very different.
 
